@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"INVALID_RESERVATION"
+			],
+			[
+				"Post",
+				"PostController"
+			],
+			[
+				"Requ",
+				"Request"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/JR/Home/Development/projects/blog",
+		"/D/JR/Home/Development/projects/blog/db",
+		"/D/JR/Home/Development/projects/blog/db/migrate"
+	],
+	"file_history":
+	[
+		"/D/JR/Home/Development/projects/blog/db/migrate/20161006141110_create_posts.rb",
+		"/D/JR/Home/Development/projects/blog/Gemfile",
+		"/D/JR/Home/Development/projects/blog/db/migrate/20161006140156_create_posts.rb",
+		"/D/JR/Home/Development/vagrant/Vagrantfile",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/vendor/autoload.php",
+		"/D/JR/Home/Development/vagrant/.vagrant/machines/default/virtualbox/synced_folders",
+		"/C/Program Files/Git/sync-vagrant/Vagrantfile",
+		"/D/JR/Home/Development/vagrant/ubuntu-xenial-16.04-cloudimg-console.log",
+		"/C/Program Files/Git/sync-vagrant/.vagrant/provisioners/ansible/inventory/vagrant_ansible_inventory",
+		"/D/JR/Home/Development/vagrant/.vagrant/machines/default/virtualbox/action_provision",
+		"/C/Users/Juanra/Desktop/Veleta/KeyFiles",
+		"/C/Users/Juanra/.ssh/config",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/tests/ReservationTest.php",
+		"/C/Users/Juanra/Desktop/gygservice copi.php",
+		"/C/Users/Juanra/Desktop/user test.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/app/Http/routes.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/database/seeds/UserSeeder.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/tests/UserTest.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/phpunit.xml",
+		"/C/Users/Juanra/Desktop/Veleta/Daily tasks",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/tests/ExampleTest.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/composer.json",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/tests/TestCase.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/tests/testeando.php",
+		"/C/Program Files/Git/etc/profile",
+		"/C/Program Files/Git/mingw64/etc/gitconfig",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/app/Http/Controllers/gyg/CancelBookingController.php",
+		"/C/laragon/www/MyToDo/routes/web.php",
+		"/C/Users/Juanra/AppData/Roaming/Sublime Text 3/Packages/User/TODO.sublime-snippet",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/vendor/tourcms/tourcms-php/src/tourcms.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/config/database.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/lib/GyGServices/GyGService.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/lib/TourCMSServices/TourCMSService.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/app/Http/Controllers/gyg/AvailabilityController.php",
+		"/C/Program Files/Git/gyg/supplier.tourcms.api/app/Http/Controllers/gyg/CancelReservationController.php",
+		"/C/Users/Juanra/.ssh/known_hosts",
+		"/C/Program Files/Git/.ssh/config",
+		"/C/Users/Juanra/Desktop/Veleta/Install php5.4",
+		"/C/Program Files/Git/.ssh/jr_ssh_key.pub",
+		"/C/Program Files/Git/supplier.tourcms.api/bootstrap/autoload.php",
+		"/C/Program Files/Git/supplier.tourcms.api/resources/views/app.blade.php",
+		"/C/Users/Juanra/Desktop/Home/Post/Importancia de uso de bloque Try - catch.html",
+		"/D/GYG/sync-vagrant/ansible/roles/bootstrap/files/RPM-GPG-KEY-EPEL-6",
+		"/D/GYG/sync-vagrant/ansible/roles/bootstrap/tasks/main.yml",
+		"/D/GYG/sync-vagrant/.vagrant/machines/default/virtualbox/private_key",
+		"/D/GYG/sync-vagrant/ansible/group_vars/all.yml",
+		"/D/GYG/sync-vagrant/ansible/playbook.yml",
+		"/C/laragon/www/MyToDo/database/migrations/2016_09_07_111654_create_tasks_table.php",
+		"/C/laragon/www/MyToDo/app/Task.php",
+		"/C/laragon/www/MyToDo/resources/views/app.blade.php",
+		"/C/laragon/www/MyToDo/resources/views/tasks.blade.php",
+		"/C/laragon/www/JRT/.env",
+		"/C/laragon/www/MyToDo/.env",
+		"/C/laragon/www/ToDoList/database/migrations/2016_09_07_110331_create_tasks_table.php",
+		"/C/laragon/www/start/.env",
+		"/C/laragon/www/ToDoList/.env",
+		"/C/laragon/www/ToDoList/database/seeds/ProjectsTableSeeder.php",
+		"/C/laragon/www/ToDoList/database/migrations/2016_09_07_100403_create_projects_and_tasks_tables.php",
+		"/C/laragon/www/ToDoList/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/ToDoList/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/JRT/routes/web.php",
+		"/C/laragon/www/JRT/app/Http/Controllers/PostController.php",
+		"/C/laragon/www/JRT/resources/views/home.blade.php",
+		"/C/laragon/www/JRT/app/Models/Posts.php",
+		"/C/laragon/www/JRT/resources/views/app.blade.php",
+		"/C/laragon/www/JRT/resources/views/create.blade.php",
+		"/C/laragon/www/JRT/resources/views/show.blade.php",
+		"/C/laragon/www/JRT/resources/views/edit.blade.php",
+		"/C/laragon/usr/sites.conf",
+		"/C/Users/Juanra/Desktop/blog-master/blog-master/.env.example",
+		"/C/laragon/www/JRT/app/Http/Controllers/Auth/LoginController.php",
+		"/C/laragon/www/JRT/app/Models/Comments.php",
+		"/C/laragon/www/JRT/app/User.php",
+		"/C/laragon/www/JRT/app/Http/Controllers/CommentController.php",
+		"/C/laragon/www/start/app/Http/Controllers/Controller.php",
+		"/C/laragon/www/JRT/app/Http/Requests/PostFormRequest.php",
+		"/C/laragon/www/JRT/app/Http/Controllers/Controller.php",
+		"/C/laragon/www/JRT/database/migrations/2016_09_07_070858_posts.php",
+		"/C/laragon/www/JRT/database/migrations/2016_09_07_070903_comments.php",
+		"/C/laragon/www/JRT/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/bin/mysql/mysql-5.7.13-win32/my.ini",
+		"/C/laragon/www/JRT/app/Http/Controllers/FirstController.php",
+		"/C/laragon/www/JRT/resources/views/articulos.blade.php",
+		"/C/laragon/www/JRT/app/Http/Kernel.php",
+		"/C/laragon/www/JRT/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/laragon/www/start/database/migrations/2016_09_05_125835_create_tasks_table.php",
+		"/C/laragon/www/start/app/Tasks.php",
+		"/C/php7/extras/ssl/openssl.cnf",
+		"/C/php7/php.ini-production",
+		"/C/Program Files/Git/Homestead/src/stubs/Homestead.yaml",
+		"/C/laragon/www/start/resources/views/read.blade.php",
+		"/C/laragon/www/start/resources/views/update.blade.php",
+		"/C/laragon/www/start/routes/web.php",
+		"/C/laragon/www/start/resources/views/app.blade.php",
+		"/C/laragon/bin/php/php-7.0.10-Win32-VC14-x86/php.ini",
+		"/C/Windows/System32/drivers/etc/hosts - copia",
+		"/C/laragon/www/start/resources/views/tasks.blade.php",
+		"/C/laragon/www/start/resources/views/new.blade.php",
+		"/C/laragon/bin/sublime/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/laragon/bin/sublime/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/laragon/bin/sublime/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ubuntu",
+			"home=",
+			"home",
+			"reservationReference",
+			"GYG_RESERVATION_REFERENCE",
+			"yum",
+			"null",
+			"Tasks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 438.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
